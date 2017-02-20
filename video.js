@@ -9,7 +9,7 @@
 })();
  
 function JWTubeThumb(id) {
-    return '<img class="youtube-thumb" src="https://img.youtube.com/vi/' + id + '/hqdefault.jpg"><div class="play-button"></div>';
+    return '<img class="youtube-thumb" src="http://i.ytimg.com/vi/' + id + '/hqdefault.jpg"><div class="play-button"></div>';
 }
  
 function JWTubeIframe() {
